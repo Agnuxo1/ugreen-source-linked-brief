@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this original Skill proposal when referencing it."
+title: "Source-Linked Brief: a source-and-version ledger for NAS document briefs"
+type: software
+version: "2026.11.09-round1"
+date-released: 2026-11-09
+authors:
+  - family-names: "Angulo de Lafuente"
+    given-names: "Francisco"
+    orcid: "https://orcid.org/0009-0001-1634-7063"
+repository-code: "https://github.com/Agnuxo1/ugreen-source-linked-brief"
+url: "https://devpost.com/software/source-linked-brief"
+license: "LicenseRef-UGREEN-Submission"
+abstract: "Original Markdown Skill and proposal. Static package conformance was checked; NAS runtime cases remain prospective."

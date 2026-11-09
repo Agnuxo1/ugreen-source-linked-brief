@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "project": "Source-Linked Brief",
+  "source_date": "2026-11-09",
+  "license": "LicenseRef-UGREEN-Submission",
+  "files": [
+    {
+      "path": "artifacts/source-linked-brief-round1-v1.zip",
+      "bytes": 8898,
+      "sha256": "24d89510ac2b3219db92819eb7751abf38bad71e8797d7f8814a59dc88c8978c"
+    },
+    {
+      "path": "artifacts/Source_Linked_Brief_UGREEN_Round1_v2.pdf",
+      "bytes": 7062,
+      "sha256": "3c028ef47ddf79dcac3c73159d2bd3e7763a6cfed5d493dcbd45a198e733f2e7"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 683,
+      "sha256": "98418910631a65645fa3d63db6b3403827f595f46598202a457414f44a4a147e"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 845,
+      "sha256": "ac9f5f72b5c837c5972d199bd9889c60ecd19a0511581bef1338825e7f615e58"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7288,
+      "sha256": "97d664d8a835745c0bea3623a0e6b420c1328ec095bc447564ecdd8c49f176dc"
+    },
+    {
+      "path": "skill/source-linked-brief/references/author-rights.md",
+      "bytes": 1117,
+      "sha256": "26fac930eeae97d3d33e17440e0c447b0ca6f858227e460af61eea84217a6cf8"
+    },
+    {
+      "path": "skill/source-linked-brief/references/disclosure.md",
+      "bytes": 2788,
+      "sha256": "2f392b2e7310b53c9391268a7196af0e3eedc28b9e03cdca3102e51c0744892e"
+    },
+    {
+      "path": "skill/source-linked-brief/references/evidence-contract.md",
+      "bytes": 2041,
+      "sha256": "ee34f8c801de6cb5da280247e1d6a1bc362a2adadfe4d99d28d45f34e510aa03"
+    },
+    {
+      "path": "skill/source-linked-brief/references/validation-plan.md",
+      "bytes": 3013,
+      "sha256": "7981111a241737032153c35c83986b977c8e75431a71cbb99d70b839767c441a"
+    },
+    {
+      "path": "skill/source-linked-brief/SKILL.md",
+      "bytes": 9512,
+      "sha256": "03eddea3c8c33a6295e3d271825539a8bd2a59b5c719f6c06df07724e2899ecf"
+    }
+  ],
+  "note": "MANIFEST.json excludes its own hash. Official receipt and private records are not part of this public payload."
+}
