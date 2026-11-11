@@ -17,6 +17,10 @@ This repository preserves the original Round 1 Skill package and proposal submit
 
 The new Skill and core workflow were authored on 9 November 2026. They describe a bounded workflow over up to ten documents explicitly selected by the user. The file, document and knowledge experts return a brief, a claim/source/version ledger, disagreements and evidence gaps. Saving requires approval and the workflow rechecks source identity. This archive contains Markdown instructions and a proposal; it contains no application server, trained model or training dataset.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> The proposed workflow bounds each brief to ten selected documents and keeps claims tied to their source and version. This is designed to reduce repeated document searching and make disagreements easier to resolve before a brief is saved. Static package checks are complete; time savings and extraction quality still require device testing. See the <a href="skill/source-linked-brief/references/validation-plan.md">validation plan</a>.</sub>
+<!-- impact-note:end -->
+
 ## Contents
 
 | Path | Purpose |
